@@ -1,16 +1,33 @@
 ---
 layout: post
-title: Probando el articulo!
+title: Problemas de la IA
 ---
 
 ## Seccion
 
-Lorem Ipsus
+El impacto de la Inteligencia Artificial en la vida humana y la economía ha sido asombroso. La inteligencia artificial puede agregar alrededor de $ 15,7 billones a la economía mundial para 2030. Para tomar eso en perspectiva, se trata de la producción económica combinada de China e India a partir de hoy.
 
-## Segunda Seccion
+Con varias empresas prediciendo que el uso de la IA puede aumentar la productividad empresarial hasta en un 40 %, el aumento espectacular en la cantidad de nuevas empresas de IA se ha multiplicado por 14 desde el año 2000. La aplicación de la IA puede abarcar desde el seguimiento de asteroides y otros cuerpos cósmicos en el espacio para predecir enfermedades en la tierra, explorar formas nuevas e innovadoras para frenar el terrorismo para hacer diseños industriales.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Pero no todo existe camino facil, a pesar de todos los beneficios que la IA nos puede dar en el futuro, en la actualidad tiene problemas que necesitan ser resueltos antes de convertirse en la bala plateada que nos llevara al futuro. Vamos a explorar 3 problemas planteados de la AI en el mundo actual.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Diferencias de metricas
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Actualmente, la mayoria de inteligencias artificiales estan siendo exploradas desde un punto de vista academico. Universidades y estudiantes trabajan en lograr nuevos enfoques y metodos. Se publican muchos papers sobre Computer Vision, Natural Language Processing, Recommender System, entre otros. El problema es que la medida que se usa para determinar si un modelo es bueno, solo es tomado de un punto de vista academico. 
+Esto no se traduce de la misma manera al mercado, el mundo real en donde estas IA pueden tomar una posicion en que verdad impactan la vida de la raza humana. Al mercado no le interesa tanto las metricas academicas, le interesa el valor que trae, cuanto se puede generar sobre esto y que no cause que las masas se vuelvan hostiles, ya que esto afecta las utilidades. 
+Un claro ejemplo de esto es un modelo llamado CLIP, creado por OpenAI. Este modelo tiene un problema, dado que ha sido entrenado en parte por la internet, tiene ciertas asociaciones que podriamos considerar como cancelables, por ejemplo no diferencia a un hombre negro de un gorila, lo cual facilmente puede causar un tremendo problema social si una empresa usa esta herramienta y en sus resultados ocurre esta comparación.
+Por lo que el desarrollo de las IA existe en un mundo aparte del mercado real, y hasta que esto no cambie, el avance de las IA para que generen un impacto en nuestra sociedad sera lento.
+
+## Inteligencia Artificial que no es inteligente
+
+Nosotros hablamos de IA o Inteligencia Artificial como si ya fuese un nombre establecido, pero tenemos muy claro que no tenemos inteligencia real. Lo más cercano que tenemos es el machine learning, el cual no es una inteligencia como en seres vivos, sino la deteccion de patrones en data. Es una inteligencia que no aprende nada nuevo hasta que nosotros manualmente apretamos botones. No tiene inspiraciones propias ni es capaz de entender problemas a menos que esten codificados en el formato explicito que necesita.
+Por esto mismo ocurren problemas como lo mencionado en el punto anterior, en donde se compara un gorila a un hombre negro, porque por si sola no es capaz de aprender, sino que nosotros tenemos que alimentar estas condiciones. Por si sola no tiene un momento de claridad en donde entiende algo de mejor manera. No es inteligencia, son solo reglas a seguir.
+
+## Echo chamber
+
+Nuestras redes sociales se han convertido en una parte fundamental de nuestra sociedad, con los milenials y la generacion X tomando una fuerte postura respecto a ellas. Estas redes por años han funcionado con sistemas recomendadores, un tipo de IA especificada en aprender sobre un comportamiento y recomendar en base a este. Esto tiene un sentido de mercado pero ha causado un problema conocido en ingles como el echo chamber o la camara de eco. Esto se podria entender como un problema moral, en donde se genera un circulo vicioso, yo expreso una postura u opinion, el modelo entiende que mis gustos rondan en torno a esto y por tanto me entrega más material sobre mi postura. El problema es que el desarrollo sano de un ser humano incluyo una exposicion a mutiples posturas, de tal manera en que nuestra postura original no es convierte en una postura radical.
+
+
+
+
+
