@@ -3,7 +3,7 @@ layout: post
 title: Problemas de la IA
 ---
 
-## Seccion
+## Introduccion
 
 El impacto de la Inteligencia Artificial en la vida humana y la economía ha sido asombroso. La inteligencia artificial puede agregar alrededor de $ 15,7 billones a la economía mundial para 2030. Para tomar eso en perspectiva, se trata de la producción económica combinada de China e India a partir de hoy.
 
@@ -26,7 +26,11 @@ Por esto mismo ocurren problemas como lo mencionado en el punto anterior, en don
 ## Echo chamber
 
 Nuestras redes sociales se han convertido en una parte fundamental de nuestra sociedad, con los milenials y la generacion X tomando una fuerte postura respecto a ellas. Estas redes por años han funcionado con sistemas recomendadores, un tipo de IA especificada en aprender sobre un comportamiento y recomendar en base a este. Esto tiene un sentido de mercado pero ha causado un problema conocido en ingles como el echo chamber o la camara de eco. Esto se podria entender como un problema moral, en donde se genera un circulo vicioso, yo expreso una postura u opinion, el modelo entiende que mis gustos rondan en torno a esto y por tanto me entrega más material sobre mi postura. El problema es que el desarrollo sano de un ser humano incluyo una exposicion a mutiples posturas, de tal manera en que nuestra postura original no es convierte en una postura radical.
+Esto se vio mucho en las elecciones de USA del 2016, en donde gano Trump, cada partida estaba absolutamente seguro se su victoria, ya que todas sus redes solamente les mostraba informacion y publicaciones de su postura politica, generando esta camara en donde lo que yo digo, es respondido por un eco de lo que dije, pero no obtengo informacion nueva o diferente sobre mi dicho inicial, solo lo mismo con una leve variacion.
 
+## Conclusion
+
+La IA es el futuro de la humanidad, aunque aun tenemos varios problemas por resolver. Hoy hemos hablado de 3, pero existen muchos más aun. Cuando todos estos hayan quedado resueltos, sabremos que hemos tomado un paso como civilizacion, como raza humana.
 
 
 
